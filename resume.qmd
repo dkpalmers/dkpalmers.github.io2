@@ -1,59 +1,61 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: David Palmer
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Professor of Statistics and Data Science
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="palmerda@byui.edu">palmerda@byui.edu</a>
+| <a href="https://literate-adventure-lm1roqq.pages.github.io/">My GitHub page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+BYU-Idaho Professor
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Statistics, Modeling, Statistics Education, Design and Analysis of Experiments, R and Python Programming
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Regression, mixed models, data visualization
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1998-2002`
+__BYU-Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2002 - 2004`
+__BYU__
 
-- Sizar
+- B.S. in Statistics
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2006-2008`
+__University of Nebraska Lincoln__
 
-- Fellow
+- M.S. in Survey Research Methodology
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2004`
+President, Statistics National Honor Society *Mu Sigma Rho*, BYU
 
-Associate, *French Academy of Science*, Paris, France
+Valedictorian, *Kent Meridian High School*, Kent, WA
 
 
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+In Progress
 
 ### Journals
 
